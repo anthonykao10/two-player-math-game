@@ -6,14 +6,6 @@ class Player
     @score = 3
   end
 
-  def get_name
-    self.name
-  end  
-  
-  def get_score
-    self.score
-  end
-
   def add_score
     self.score += 1
   end
