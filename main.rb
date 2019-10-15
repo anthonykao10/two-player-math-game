@@ -1,6 +1,6 @@
-require './Game.rb'
-require './Player.rb'
-require './Question.rb'
+require './Game'
+require './Player'
+require './Question'
 
 # Create players
 p1 = Player.new("player 1")
